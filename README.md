@@ -29,7 +29,7 @@
 </div>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=xbrzee&theme=vue&radius=10" alt="Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=XbrZeye&theme=vue&radius=10" alt="Activity Graph" />
 </p>
 
 <p align="center">
